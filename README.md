@@ -1,4 +1,4 @@
-## Medicion Termica De Procesadores
+## Disipacion Termica en Procesadores bajo Computo Intensivo
 
 ## 1. Descripción del proyecto
 Este proyecto analiza cómo se genera y se transfiere el calor dentro de un procesador durante tareas de alto rendimiento. Para ello, utiliza un modelo matemático de conducción térmica en una dimensión y un programa desarrollado en Python.
